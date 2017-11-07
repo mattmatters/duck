@@ -2,6 +2,9 @@
 
 > Indiscrimately click ducks
 
+![hot-doggin](https://media.giphy.com/media/3og0Ix3vPH4B2kqz04/giphy.gif)
+
+
 ## Build Setuppppp
 
 ``` bash
