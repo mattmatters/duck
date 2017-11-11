@@ -16,7 +16,7 @@
    name: 'HelloWorld',
    data() {
      return {
-       title: 'Duck Diggin',
+       title: 'Duck Dynasty 2',
        diclaimer: 'You too, duck...',
      };
    },
