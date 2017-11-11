@@ -1,4 +1,4 @@
-# :duck: Duck Controller
+# :duck: Duck: The Sequel [![Build Status](https://travis-ci.org/mattmatters/duck.svg?branch=master)](https://travis-ci.org/mattmatters/duck)
 
 > Indiscrimately click ducks
 
@@ -6,6 +6,7 @@
 
 
 ## Build Setuppppp
+Ducks come prepackaged to :duck:.
 
 ``` bash
 # install dependencies
@@ -19,15 +20,6 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
 Am I doing this right?
