@@ -1,11 +1,18 @@
-# :duck: Duck: The Sequel [![Build Status](https://travis-ci.org/mattmatters/duck.svg?branch=master)](https://travis-ci.org/mattmatters/duck)
+<p align="center"><img src="https://media.giphy.com/media/3og0Ix3vPH4B2kqz04/giphy.gif" width="360"></p>
+<h1 align="center">Duck: The Sequel</h1>
+<p align="center">
+  <a href="https://travis-ci.org/mattmatters/duck"><img src="https://travis-ci.org/mattmatters/duck.svg?branch=master" alt="Build Status"></img></a>
+  <a href="https://ci.appveyor.com/project/mattmatters/duck"><img src="https://ci.appveyor.com/api/projects/status/dkfyae9omp2g64r2?svg=true" alt="Windows Build Status"></a>
+  <a href="https://codeclimate.com/github/mattmatters/duck/maintainability"><img src="https://api.codeclimate.com/v1/badges/05e171eb9300bb2cfb42/maintainability" /></a>
+  <a href="https://codeclimate.com/github/mattmatters/duck/test_coverage"><img src="https://api.codeclimate.com/v1/badges/05e171eb9300bb2cfb42/test_coverage" /></a>
+</p>
 
-> Indiscrimately click ducks
+> Indiscrimately click :duck:
 
 ![hot-doggin](https://media.giphy.com/media/3og0Ix3vPH4B2kqz04/giphy.gif)
 
 
-## Build Setuppppp
+## Build Setuppppp :duck:
 Ducks come prepackaged to :duck:.
 
 ``` bash
@@ -22,9 +29,5 @@ npm run build
 npm run build --report
 ```
 
-Am I doing this right?
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-Ooooooooooh grandma
-:hotdog:
+_Quack_
