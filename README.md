@@ -14,6 +14,7 @@
 <p align="center">
     <a href="https://gitlab.com/mattmatters/duck/commits/master"><img alt="pipeline status" src="https://gitlab.com/mattmatters/duck/badges/master/pipeline.svg" /></a>
     <a href="https://gitlab.com/mattmatters/duck/commits/master"><img alt="coverage report" src="https://gitlab.com/mattmatters/duck/badges/master/coverage.svg" /></a>
+    <a href="https://circleci.com/gh/mattmatters/duck/tree/master"><img alt="circle-ci" src="https://circleci.com/gh/mattmatters/duck/tree/master.svg?style=svg"></a>
 </p>
 <h1 align="center">Duck: The Sequel</h1>
 > Indiscrimately click :duck:
