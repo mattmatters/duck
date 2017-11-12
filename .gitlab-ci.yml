@@ -1,0 +1,10 @@
+before-script:
+  - apt-get update -qq && apt-get install -y -qq nodejs
+  - npm install
+lint:
+  - script:
+      - npm run lint
+test:
+  - script:
+      - npm run test
+
