@@ -2,9 +2,9 @@ image: node
 before_script:
   - npm install
 lint:
-  - script:
-      - npm run lint
+  script:
+    - npm run lint
 test:
-  - script:
-      - npm run test
+  script:
+    - npm run test
 
