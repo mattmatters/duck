@@ -11,6 +11,10 @@
     <a href="https://david-dm.org/mattmatters/duck?type=dev" title="devDependencies status"><img src="https://david-dm.org/mattmatters/duck/dev-status.svg"/></a>
     <a href='https://semaphoreci.com/mattmatters/duck'> <img src='https://semaphoreci.com/api/v1/mattmatters/duck/branches/master/badge.svg' alt='Build Status'></a>
 </p>
+<p align="center">
+    <a href="https://gitlab.com/mattmatters/duck/commits/master"><img alt="pipeline status" src="https://gitlab.com/mattmatters/duck/badges/master/pipeline.svg" /></a>
+    <a href="https://gitlab.com/mattmatters/duck/commits/master"><img alt="coverage report" src="https://gitlab.com/mattmatters/duck/badges/master/coverage.svg" /></a>
+</p>
 <h1 align="center">Duck: The Sequel</h1>
 > Indiscrimately click :duck:
 
