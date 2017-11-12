@@ -1,5 +1,5 @@
-before-script:
-  - apt-get update -qq && apt-get install -y -qq nodejs
+image: node
+before_script:
   - npm install
 lint:
   - script:
