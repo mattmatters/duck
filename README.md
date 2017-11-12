@@ -7,7 +7,7 @@
 </p>
 <p align="center">
     <a href="https://app.codeship.com/projects/256353"><img src="https://app.codeship.com/projects/b15bc150-a967-0135-7965-32b6694ce8bc/status?branch=master"></a>
-    <a href="https://david-dm.org/mattmatters/duck"><img src"https://david-dm.org/mattmatters/duck.svg"></a>
+    <a href="https://david-dm.org/mattmatters/duck"><img src="https://david-dm.org/mattmatters/duck.svg"></a>
     <a href='https://semaphoreci.com/mattmatters/duck'> <img src='https://semaphoreci.com/api/v1/mattmatters/duck/branches/master/badge.svg' alt='Build Status'></a>
 </p>
 <h1 align="center">Duck: The Sequel</h1>
