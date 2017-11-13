@@ -19,7 +19,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/mattmatters/duck"><img alt="Downloads" src="https://img.shields.io/github/downloads/mattmatters/duck/total.svg" /></a>
-    <a href="http://duckdynasty2.site"><img alt="Website Status" src="https://img.shields.io/website-up-down-green-red/http/duckdynasty2.site.svg?label=Website Status" /></a>
+    <a href="http://duckdynasty2.site"><img alt="Website Status" src="https://img.shields.io/website-up-down-green-red/http/duckdynasty2.site.svg?label=WebsiteStatus" /></a>
     <a href="http://hits.dwyl.io/mattmatters/duck"><img alt="Hit Count" src="http://hits.dwyl.io/mattmatters/duck.svg" /></a>
 </p>
 <h1 align="center">Duck: The Sequel</h1>
