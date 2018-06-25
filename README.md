@@ -22,6 +22,15 @@
     <a href="http://duckdynasty2.site"><img alt="Website Status" src="https://img.shields.io/website-up-down-green-red/http/duckdynasty2.site.svg?label=WebsiteStatus" /></a>
     <a href="http://hits.dwyl.io/mattmatters/duck"><img alt="Hit Count" src="http://hits.dwyl.io/mattmatters/duck.svg" /></a>
 </p>
+<p align="center">
+    <a href="https://gitential.com/accounts/923/projects/1025/share?uuid=21f8a461-8737-44db-9414-af4c3fba4094&utm_source=shield&utm_medium=shield&utm_campaign=1025"><img src="https://api.gitential.com/accounts/923/projects/1025/badges/active-contributors.svg" alt="Active Contributors" /></a>
+    <a href="https://gitential.com/accounts/923/projects/1025/share?uuid=21f8a461-8737-44db-9414-af4c3fba4094&utm_source=shield&utm_medium=shield&utm_campaign=1025"><img src="https://api.gitential.com/accounts/923/projects/1025/badges/code-volume.svg" alt="Code Volume" /></a>
+    <a href="https://gitential.com/accounts/923/projects/1025/share?uuid=21f8a461-8737-44db-9414-af4c3fba4094&utm_source=shield&utm_medium=shield&utm_campaign=1025"><img src="https://api.gitential.com/accounts/923/projects/1025/badges/coding-hours.svg" alt="Coding Hours" /></a>
+</p>
+<p align="center">
+    <a href="https://gitential.com/accounts/923/projects/1025/share?uuid=21f8a461-8737-44db-9414-af4c3fba4094&utm_source=shield&utm_medium=shield&utm_campaign=1025"><img src="https://api.gitential.com/accounts/923/projects/1025/badges/efficiency.svg" alt="Efficiency" /></a>
+    <a href="https://gitential.com/accounts/923/projects/1025/share?uuid=21f8a461-8737-44db-9414-af4c3fba4094&utm_source=shield&utm_medium=shield&utm_campaign=1025"><img src="https://api.gitential.com/accounts/923/projects/1025/badges/utilization.svg" alt="Utilization" /></a>
+</p>
 <h1 align="center">Duck: The Sequel</h1>
 > Indiscrimately click :duck:
 
