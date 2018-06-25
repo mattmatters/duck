@@ -30,6 +30,7 @@
 <p align="center">
     <a href="https://gitential.com/accounts/923/projects/1025/share?uuid=21f8a461-8737-44db-9414-af4c3fba4094&utm_source=shield&utm_medium=shield&utm_campaign=1025"><img src="https://api.gitential.com/accounts/923/projects/1025/badges/efficiency.svg" alt="Efficiency" /></a>
     <a href="https://gitential.com/accounts/923/projects/1025/share?uuid=21f8a461-8737-44db-9414-af4c3fba4094&utm_source=shield&utm_medium=shield&utm_campaign=1025"><img src="https://api.gitential.com/accounts/923/projects/1025/badges/utilization.svg" alt="Utilization" /></a>
+    <a href="http://ForTheBadge.com"><img src="http://ForTheBadge.com/images/badges/makes-people-smile.svg" alt="ForTheBadge makes-people-smile" /></a>
 </p>
 <h1 align="center">Duck: The Sequel</h1>
 > Indiscrimately click :duck:
